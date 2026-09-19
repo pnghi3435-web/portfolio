@@ -1,0 +1,7 @@
+{
+  "name": "PN Studio — Fine-Art Portraiture & Editorial Monochrome",
+  "description": "Nhiếp ảnh chân dung đen trắng mỹ thuật độc bản và phóng sự chân dung lãnh đạo nghệ thuật cao cấp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
